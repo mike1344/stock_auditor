@@ -1,0 +1,46 @@
+# 环境变量（包含 API 密钥，绝对不能提交）
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 项目生成文件
+交易分析报告.xlsx
+*.xls
+*.xlsx
+
+# 截图文件
+screenshot.png
+*.png
+*.jpg
+
+# 系统文件
+Thumbs.db
+Desktop.ini
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+data/
+logs/
+.venv/
+__pycache__/
+*.pyc
+data/
+logs/
+.venv/
+__pycache__/
+*.pyc
+data/
+logs/
